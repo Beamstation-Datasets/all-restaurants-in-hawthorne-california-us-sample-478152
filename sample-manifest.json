@@ -1,0 +1,12 @@
+{
+  "export_job_id": "db9e24d9-e3a3-4677-aeaa-9f8e5c6f2057",
+  "id_short": 478152,
+  "published_at": "2026-04-12T19:20:50Z",
+  "repo_name": "all-restaurants-in-hawthorne-california-us-sample-478152",
+  "sample_asset_name": "beamstation_478152_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/478152/beamstation_478152_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 18,
+  "sample_sha256": "d16ea34216163ea867ce071287593f183562667d95b371d700bba20f5a8d024e",
+  "sample_size_bytes": 81455,
+  "total_records": 182
+}
