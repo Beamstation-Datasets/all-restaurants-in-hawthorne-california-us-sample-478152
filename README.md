@@ -9,9 +9,9 @@
 | Dataset ID | `478152` |
 | Location | Hawthorne |
 | Category | Restaurants |
-| Full dataset size | 182 records |
-| Free sample size | 18 records (9.89%) |
-| Last export | 2026-04-07T12:13:53.887434+00:00 |
+| Full dataset size | 181 records |
+| Free sample size | 18 records (9.94%) |
+| Last export | 2026-04-14T12:07:34.093886+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hawthorne-california-us-sample-478152/releases/download/sample-latest/beamstation_478152_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
