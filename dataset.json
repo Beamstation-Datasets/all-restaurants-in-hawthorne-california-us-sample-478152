@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete restaurant market coverage for Hawthorne, California. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Hawthorne, California, US",
-  "export_job_id": "29438fc5-1d86-4b90-b299-9c5857c1a587",
+  "export_job_id": "4336fd87-514b-49a9-b012-a70a488f3f60",
   "github_org": "Beamstation-Datasets",
   "id_short": 478152,
   "location_name": "Hawthorne",
   "location_type": "city",
   "repo_name": "all-restaurants-in-hawthorne-california-us-sample-478152",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/478152/beamstation_478152_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.94,
+  "sample_pct": 9.89,
   "sample_records": 18,
-  "sample_sha256": "e881ebf84495afe55630345d87dc25ed710676298b176905794226cb081b0c5e",
-  "sample_size_bytes": 75655,
-  "total_records": 181,
-  "updated_at": "2026-04-14T12:07:34.093886+00:00"
+  "sample_sha256": "37dd5bdb33b2a51784f98051ac10ef1c2cfc3c94f74b2ff3205e87d79972108c",
+  "sample_size_bytes": 77075,
+  "total_records": 182,
+  "updated_at": "2026-04-21T12:38:41.902722+00:00"
 }
