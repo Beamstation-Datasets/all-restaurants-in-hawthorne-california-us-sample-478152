@@ -1,6 +1,6 @@
 # All Restaurants in Hawthorne, California, US
 
-> Free BeamStation sample export with 18 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `478152` |
 | Location | Hawthorne |
 | Category | Restaurants |
-| Full dataset size | 182 records |
-| Free sample size | 18 records (9.89%) |
-| Last export | 2026-04-21T12:38:41.902722+00:00 |
+| Full dataset size | 55 records |
+| Free sample size | 5 records (9.09%) |
+| Last export | 2026-04-28T13:32:23.434400+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hawthorne-california-us-sample-478152/releases/download/sample-latest/beamstation_478152_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
